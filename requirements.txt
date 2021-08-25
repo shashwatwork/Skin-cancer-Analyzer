@@ -3,5 +3,5 @@ pandas==1.0.1
 Pillow==7.0.0
 plotly==4.7.1
 streamlit==0.58.0
-tensorflow==1.14.0
+tensorflow==2.5.1
 Keras==2.2.5
